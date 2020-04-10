@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC FHD">
+    <display-name lang="es">AMC FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="es">AXN FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal Brasil FHD">
+    <display-name lang="es">Canal Brasil FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal Sony FHD">
+    <display-name lang="es">Canal Sony FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Cinemax FHD">
+    <display-name lang="es">Cinemax FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Fox Premium 1 FHD">
+    <display-name lang="pt">Fox Premium 1 FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Fox Premium 2 FHD">
+    <display-name lang="pt">Fox Premium 2 FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="es">FX FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Megapix FHD">
+    <display-name lang="es">Megapix FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Paramount Channel FHD">
+    <display-name lang="es">Paramount Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Smithsonian Channel FHD">
+    <display-name lang="es">Smithsonian Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Space FHD">
+    <display-name lang="es">Space FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Studio Universal FHD">
+    <display-name lang="es">Studio Universal FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Syfy FHD">
+    <display-name lang="es">Syfy FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TBS FHD">
+    <display-name lang="es">TBS FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TCM SD">
+    <display-name lang="es">TCM SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TNT FHD">
+    <display-name lang="es">TNT FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TNT Series FHD">
+    <display-name lang="es">TNT Series FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Universal TV FHD">
+    <display-name lang="es">Universal TV FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Warner Channel FHD">
+    <display-name lang="es">Warner Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO 2 FHD">
+    <display-name lang="es">HBO 2 FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO Family FHD">
+    <display-name lang="es">HBO Family FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO FHD">
+    <display-name lang="es">HBO FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="HBO Mundi FHD">
+    <display-name lang="pt">HBO Mundi FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Plus FHD">
+    <display-name lang="pt">HBO Plus FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Pop FHD">
+    <display-name lang="pt">HBO Pop FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Signature FHD">
+    <display-name lang="pt">HBO Signature FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="HBO Xtreme FHD">
+    <display-name lang="pt">HBO Xtreme FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Telecine Action FHD">
+    <display-name lang="es">Telecine Action FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Cult FHD">
+    <display-name lang="es">Telecine Cult FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Fun FHD">
+    <display-name lang="es">Telecine Fun FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD">
+    <display-name lang="es">Telecine Pipoca FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Premium FHD">
+    <display-name lang="es">Telecine Premium FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Touch FHD">
+    <display-name lang="es">Telecine Touch FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Baby TV SD">
+    <display-name lang="pt">Baby TV SD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Boomerang FHD">
+    <display-name lang="es">Boomerang FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Cartoon Network FHD">
+    <display-name lang="es">Cartoon Network FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Discovery Kids FHD">
+    <display-name lang="es">Discovery Kids FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Disney Channel FHD">
+    <display-name lang="es">Disney Channel FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Disney Junior FHD">
+    <display-name lang="es">Disney Junior FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Disney XD FHD">
+    <display-name lang="es">Disney XD FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Gloob FHD">
+    <display-name lang="es">Gloob FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Gloobinho FHD">
+    <display-name lang="pt">Gloobinho FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="NatGeo Kids FHD">
+    <display-name lang="pt">NatGeo Kids FHD</display-name>
+    <icon src="http://www.tvplus.com.br/images/logos/HBO.png style=width: 40px; vertical-align: middle&gt;&lt;/a&gt;&lt;/p&gt;&#xA;         &lt;p&gt;&lt;span class=lnr lnr-clock&gt;&lt;/span&gt; 22h00 - 23h55&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;         &lt;/div&gt;&#xA;       &lt;/div&gt;&#xA;       &lt;div class=single-travel media pb-70&gt;&#xA;         &lt;img src='/images/epg_272/0000771962_epg.jpg' style='width: 272px; height: 204px' alt='' class='img-fluid d-flex  mr-3' /&gt;         &lt;!--&lt;div class=dates&gt;&#xA;          &lt;span&gt;09&lt;/span&gt;&#xA;          &lt;p&gt;Apr&lt;/p&gt;&#xA;         &lt;/div&gt;--&gt;&#xA;         &lt;div class=media-body align-self-center&gt;&#xA;           &lt;h4 class=mt-0&gt;&lt;a href=#&gt;Power Rangers&lt;/a&gt;&lt;/h4&gt;&#xA;           &lt;p&gt;Um grupo de estudantes com superpoderes únicos precisarão utilizar suas habilidades para salvar o mundo.&lt;/p&gt;&#xA;        &lt;div class=meta-bottom d-flex justify-content-between&gt;&#xA;         &lt;p&gt;&lt;a href=/canal-TC1-2020-04-09&gt; title=" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Nick FHD">
+    <display-name lang="es">Nick FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Nick Jr FHD">
+    <display-name lang="es">Nick Jr FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Tooncast SD">
+    <display-name lang="pt">Tooncast SD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="TV Ra Tim Bum FHD">
+    <display-name lang="pt">TV Ra Tim Bum FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="ZooMoo SD">
+    <display-name lang="pt">ZooMoo SD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="PlayKids FHD">
+    <display-name lang="pt">PlayKids FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <programme start="20200409222900 -0300" stop="20200409231200 -0300" channel="Fox Premium 1 FHD">
+    <title lang="pt">Fosse/Verdon - Temp. 1 - Ep. 6</title>
+    <desc lang="pt">Bob mergulha em vários projetos. Ele e Gwen começam os ensaios para Chicago, mas a pressão crescente pode ser demais para eles.(n)</desc>
+    <credits>
+      <director>Minkie Spiro</director>
+      <actor>Ann Reinking</actor>
+      <actor>Michelle Williams</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000092804001_epg.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20200409231200 -0300" stop="20200410000900 -0300" channel="Fox Premium 1 FHD">
+    <title lang="pt">Fosse/Verdon - Temp. 1 - Ep. 7</title>
+    <desc lang="pt">Gwen luta pela sua própria visão criativa em Chicago, desafiando as ideias cada vez mais obscuras de Bob para o musical.(n)</desc>
+    <credits>
+      <director>Thomas Kail</director>
+      <actor>Ann Reinking</actor>
+      <actor>Michelle Williams</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000092804001_epg.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20200409225400 -0300" stop="20200409232400 -0300" channel="Fox Premium 2 FHD">
+    <title lang="pt">Future Man - Temp. 2</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Jonathan Watson</director>
+      <actor>Derek Wilson</actor>
+      <actor>Eliza Coupe</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084360002_epg.jpg" />
+  </programme>
+  <programme start="20200409232400 -0300" stop="20200410000300 -0300" channel="Fox Premium 2 FHD">
+    <title lang="pt">False Flag - Temp. 2 - Ep. 6</title>
+    <desc lang="pt">Anat vai ao hospital disfarçada para visitar o seu filho. Sagi a confronta e chama Eitan.(n)</desc>
+    <credits>
+      <director>Oded Ruskin</director>
+      <actor>Angel Bonanni</actor>
+      <actor>Hani Furstenberg</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Suspense</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000086139_epg.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20200409223000 -0300" stop="20200410005500 -0300" channel="HBO Mundi FHD">
+    <title lang="pt">Um Sonho de Liberdade</title>
+    <desc lang="pt">Banqueiro é preso injustamente pelo assassinato da mulher; numa terrível penitenciária ele sonha com sua liberdade através de um grande plano.(n)</desc>
+    <credits>
+      <director>Frank Darabont</director>
+      <actor>Tim Robbins</actor>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000042292_epg.jpg" />
+  </programme>
+  <programme start="20200409220500 -0300" stop="20200410002500 -0300" channel="HBO Plus FHD">
+    <title lang="pt">Shazam!</title>
+    <desc lang="pt">De David F. Sandberg. Com Zachary Levi, Mark Strong. O universo cinematográfico da DC nos apresenta Billy Batson, um jovem órfão que, graças a um misterioso feiticeiro, se torna um super-herói.(n)</desc>
+    <credits>
+      <director>David F</director>
+      <actor>Zachary Levi</actor>
+      <actor>Mark Strong</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000762400_epg.jpg" />
+  </programme>
+  <programme start="20200409225500 -0300" stop="20200410003000 -0300" channel="HBO Pop FHD">
+    <title lang="pt">Sob a Torre Eiffel</title>
+    <desc lang="pt">Em meio a uma crise de meia-idade, Stuart se vê sob a Torre Eiffel pedindo em casamento a filha de 26 anos de seu melhor amigo.(n)</desc>
+    <credits>
+      <director>Archie Borders</director>
+      <actor>Matt Walsh</actor>
+      <actor>Judith Godrèche</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Romance</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000753189_epg.jpg" />
+  </programme>
+  <programme start="20200409222600 -0300" stop="20200409230000 -0300" channel="HBO Signature FHD">
+    <title lang="pt">Insecure - Temp. 3 - Ep. 4</title>
+    <desc lang="pt">Issa tenta se desfazer de algumas lembranças queridas. No trabalho, Frieda tenta ajudar Issa a recuperar as a confiança de Joanne.(n)</desc>
+    <credits>
+      <director>Stella Meghie</director>
+      <actor>Y'lan Noel</actor>
+      <actor>Amanda Seales</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000080737003_epg.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20200409230000 -0300" stop="20200410000300 -0300" channel="HBO Signature FHD">
+    <title lang="pt">My Brilliant Friend - Temp. 2 - Ep. 4</title>
+    <desc lang="pt">A segunda temporada de My Brilliant Friend começa exatamente onde a primeira temporada parou.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000088382_epg.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20200409220000 -0300" stop="20200409233000 -0300" channel="HBO Xtreme FHD">
+    <title lang="pt">Cadáver</title>
+    <desc lang="pt">Uma policial trabalhando em um necrotério duvida da própria sanidade após a chegada de um cadáver desfigurado em um exorcismo.(n)</desc>
+    <credits>
+      <director>Diederik Van Rooijen</director>
+      <actor>Shay Mitchell</actor>
+      <actor>Grey Damon</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Terror</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000747588_epg.jpg" />
+  </programme>
+  <programme start="20200409233000 -0300" stop="20200410014500 -0300" channel="HBO Xtreme FHD">
+    <title lang="pt">Hereditário</title>
+    <desc lang="pt">Annie Graham é uma artista que após a morte da mãe passa a lidar com visões perturbadoras e inexplicáveis.(n)</desc>
+    <credits>
+      <director>Ari Aster</director>
+      <actor>Toni Collette</actor>
+      <actor>Milly Shapiro</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Terror</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000747592_epg.jpg" />
+  </programme>
+  <programme start="20200409223000 -0300" stop="20200409230000 -0300" channel="Baby TV SD">
+    <title lang="pt">Milky Way</title>
+    <desc lang="pt">Animação. Sinopse Não Disponível.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084284_epg.jpg" />
+  </programme>
+  <programme start="20200409230000 -0300" stop="20200409233000 -0300" channel="Baby TV SD">
+    <title lang="pt">Crepúsculo</title>
+    <desc lang="pt">Animação. Sinopse Não Disponível.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084280_epg.jpg" />
+  </programme>
+  <programme start="20200409233000 -0300" stop="20200410000000 -0300" channel="Baby TV SD">
+    <title lang="pt">Crepúsculo</title>
+    <desc lang="pt">Animação. Sinopse Não Disponível.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084280_epg.jpg" />
+  </programme>
+  <programme start="20200409225500 -0300" stop="20200409230000 -0300" channel="Gloobinho FHD">
+    <title lang="pt">Misho &amp; Robin - Temp. 1 - Ep. 20</title>
+    <desc lang="pt">De Denis Alenti. Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Denis Alenti</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Animação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000087080_epg.jpg" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+  </programme>
+  <programme start="20200409230000 -0300" stop="20200409231500 -0300" channel="Gloobinho FHD">
+    <title lang="pt">Senninha Na Pista Maluca - Temp. 1 - Ep. 8</title>
+    <desc lang="pt">Animação. O frio congelante do retão glacial faz com que Neco envie Becão com a mochila voadora para levar agasalho a Senninha e seus amigos. Mas Becão quer terminar a corrida por Senninha.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000086676_epg.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20200409231500 -0300" stop="20200409233000 -0300" channel="Gloobinho FHD">
+    <title lang="pt">Go Jetters - Temp. 1 - Ep. 20</title>
+    <desc lang="pt">Os Go Jetters relaxam no Mar Morto quando o Grande Mestre Glitch causa uma catástrofe de creme.(n)</desc>
+    <credits>
+      <director>Alex Sherwood</director>
+      <actor>Vozes de John Hasler</actor>
+      <actor>Tommie Earl Jenkins</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Animação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000087683_epg.jpg" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+  </programme>
+  <programme start="20200409233000 -0300" stop="20200409234500 -0300" channel="Gloobinho FHD">
+    <title lang="pt">Hogie, o Viajante - Temp. 1 - Ep. 24</title>
+    <desc lang="pt">De Walid Omar. É temporada de acampamento e a turma está em uma aventura com tendas e sacos nas costas!(n)</desc>
+    <credits>
+      <director>Walid Omar</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084591_epg.jpg" />
+    <episode-num system="onscreen">S1 E24</episode-num>
+  </programme>
+  <programme start="20200409234500 -0300" stop="20200410000000 -0300" channel="Gloobinho FHD">
+    <title lang="pt">Elias - Aventuras A Bordo - Ep. 8</title>
+    <desc lang="pt">De Theresa Plummer. Princesa aprende na maneira mais dífícil as regras dos navios, e ela ensina a Cruzeirinho que por causa de seu descuido se prende em Tight Rock onde é resgatado.(n)</desc>
+    <credits>
+      <director>Theresa Plummer</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Animação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000086083_epg.jpg" />
+  </programme>
+  <programme start="20200409223000 -0300" stop="20200409230000 -0300" channel="Tooncast SD">
+    <title lang="pt">Pinky e o Cérebro</title>
+    <desc lang="pt">Um rato gênio e seu estúpido amigo, tentam todas as noites conquistar o mundo.(n)</desc>
+    <credits>
+      <director>Joe Sandusky</director>
+      <actor>Vozes de Maurice LaMarche</actor>
+      <actor>Rob Paulsen</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="pt">Animação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000078623000_epg.jpg" />
+  </programme>
+  <programme start="20200409230000 -0300" stop="20200409233000 -0300" channel="Tooncast SD">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <desc lang="pt">A Mistério S/A vai parar em uma cidade fantasma do velho oeste.(n)</desc>
+    <credits>
+      <director>Hanna &amp; Barbera</director>
+      <actor>Vozes de Don Messick</actor>
+      <actor>Casey Kassem</actor>
+    </credits>
+    <date>1969</date>
+    <category lang="pt">Animação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000075157_epg.jpg" />
+  </programme>
+  <programme start="20200409233000 -0300" stop="20200410000000 -0300" channel="Tooncast SD">
+    <title lang="pt">Programação Tooncast</title>
+    <desc lang="pt">Infantil. Sinopse Não Disponível.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/0000599974_epg.jpg" />
+  </programme>
+  <programme start="20200409220000 -0300" stop="20200409233000 -0300" channel="TV Ra Tim Bum FHD">
+    <title lang="pt">Era Uma Vez No Quintal</title>
+    <desc lang="pt">De Elisabeth Rodrigues. Muitas aventuras acontecem nesse quintal. Os amigos se divertem contando histórias, cantando, dançando e brincando até cansar!(n)</desc>
+    <credits>
+      <director>Elisabeth Rodrigues</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000078214_epg.jpg" />
+  </programme>
+  <programme start="20200409233000 -0300" stop="20200410000000 -0300" channel="TV Ra Tim Bum FHD">
+    <title lang="pt">X-Tudo - Ep. 13</title>
+    <desc lang="pt">De Arcângelo Mello Jr.. O que acontece quando um programa mistura receitinhas fáceis de fazer, truques de mágica e experiências incríveis? Fica uma delícia! Isso é o que a gente pode chamar de X-Tudo.(n)</desc>
+    <credits>
+      <director>Arcângelo Mello Jr</director>
+    </credits>
+    <date>1992</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000081093_epg.jpg" />
+  </programme>
+  <programme start="20200409225300 -0300" stop="20200409230800 -0300" channel="ZooMoo SD">
+    <title lang="pt">Plocky</title>
+    <desc lang="pt">De Hilário Martins. Você sabe identificar as frutas, as cores? E os animais? Venha brincar de adivinhar e desenhar, a criançada vai se encantar com as histórias e se divertir com as músicas.(n)</desc>
+    <credits>
+      <director>Hilário Martins</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000095885_epg.jpg" />
+  </programme>
+  <programme start="20200409230800 -0300" stop="20200409232000 -0300" channel="ZooMoo SD">
+    <title lang="pt">Perdido - Temp. 1 - Ep. 28</title>
+    <desc lang="pt">De Ian McGee. Flash é um fotógrafo da vida selvagem com um inabalável senso de aventura e pouco senso de direção. Em cada episódio ele está em algum lugar do mundo enfrentando perigo.(n)</desc>
+    <credits>
+      <director>Ian McGee</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000078790_epg.jpg" />
+    <episode-num system="onscreen">S1 E28</episode-num>
+  </programme>
+  <programme start="20200409232000 -0300" stop="20200409232200 -0300" channel="ZooMoo SD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Infantil. A turma de Caninópolis, traz Otto e seus amiguinhos Flip, Mel, Luka, Ralf e também o Vovô Totó em um fantástico mundo habitado por cachorrinhos.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096852_epg.jpg" />
+  </programme>
+  <programme start="20200409232200 -0300" stop="20200409232500 -0300" channel="ZooMoo SD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">Infantil. A turma de Caninópolis, traz Otto e seus amiguinhos Flip, Mel, Luka, Ralf e também o Vovô Totó em um fantástico mundo habitado por cachorrinhos.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096852_epg.jpg" />
+  </programme>
+  <programme start="20200409232500 -0300" stop="20200409234700 -0300" channel="ZooMoo SD">
+    <title lang="pt">Teddies</title>
+    <desc lang="pt">Com Christopher Lane, Barbara Latimer. A série é estrelada por quatro amigos ursinhos Dom, Meeky, Sparky e Tizzy que vivem no maravilhoso mundo de teddytown!(n)</desc>
+    <credits>
+      <actor>Christopher Lane</actor>
+      <actor>Barbara Latimer</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000094492_epg.jpg" />
+  </programme>
+  <programme start="20200409234700 -0300" stop="20200409235600 -0300" channel="ZooMoo SD">
+    <title lang="pt">Flash, o Aventureiro</title>
+    <desc lang="pt">De Marcos Okura. Nosso querido fotógrafo se une a Maria, uma amiga que entende tudo de bichos! Juntos vão nos mostrar como os animais vivem, o que comem e até cuidar dos bichinhos que ficam doentes!(n)</desc>
+    <credits>
+      <director>Marcos Okura</director>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000085082_epg.jpg" />
+  </programme>
+  <programme start="20200409235600 -0300" stop="20200409235800 -0300" channel="ZooMoo SD">
+    <title lang="pt">Zooparky - Temp. 1 - Ep. 4</title>
+    <desc lang="pt">De Sergio Martinelli. Zooparky é um lugar único, não determinado da Terra, pode ser uma ilha, um arquipélago, um istmo.(n)</desc>
+    <credits>
+      <director>Sergio Martinelli</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000095521_epg.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20200409235800 -0300" stop="20200410000000 -0300" channel="ZooMoo SD">
+    <title lang="pt">Zooparky - Temp. 1 - Ep. 5</title>
+    <desc lang="pt">De Sergio Martinelli. Zooparky é um lugar único, não determinado da Terra, pode ser uma ilha, um arquipélago, um istmo.(n)</desc>
+    <credits>
+      <director>Sergio Martinelli</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000095521_epg.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20200409223000 -0300" stop="20200409230000 -0300" channel="PlayKids FHD">
+    <title lang="pt">Futura Profissão: O Novo Mundo - Ep. 2</title>
+    <desc lang="pt">De Fúlvio Maia. "No episódio, o Futura Profissão conecta Rio de Janeiro e Goiás. Vitor cursa Engenharia Química no SENAI CETIQT.(n)</desc>
+    <credits>
+      <director>Fúlvio Maia</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Educativo</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000056823_epg.jpg" />
+  </programme>
+  <programme start="20200409230000 -0300" stop="20200409233000 -0300" channel="PlayKids FHD">
+    <title lang="pt">Destino: Educação - Escolas Inovadoras - Ep. 52</title>
+    <desc lang="pt">Educativo. Neste episódio serão retratadas as inovações de ensino do Colégio Fontán Capital, localizado no município de Chía, a 34 quilômetros da capital da Colômbia, Bogotá.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000080387_epg.jpg" />
+  </programme>
+  <programme start="20200409233000 -0300" stop="20200410000000 -0300" channel="PlayKids FHD">
+    <title lang="pt">A Chave - Temp. 1 - Ep. 7</title>
+    <desc lang="pt">Educativo. De Claudio Antônio Souza de Jesus. Educação Profissional e Diversidade. Como a escola pode ajudar na construção de uma sociedade mais tolerante a diversidade?(n)</desc>
+    <credits>
+      <director>Claudio Antônio Souza de Jesus</director>
+    </credits>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+</tv>
